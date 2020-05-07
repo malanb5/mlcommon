@@ -1,0 +1,8 @@
+objs/eda_objs
+data
+*.csv
+*.pkl
+*.png
+*.log
+*.lgb
+*.hdf5
